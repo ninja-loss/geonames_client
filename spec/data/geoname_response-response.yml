@@ -1,0 +1,196 @@
+--- !ruby/object:Net::HTTPOK 
+body: |-
+  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <geonames>
+  <streetSegment>
+  <line>-95.416216 29.762065,-95.416239 29.763079</line>
+  <distance>0.02</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Detering St</name>
+  <fraddl>37</fraddl>
+  <fraddr>38</fraddr>
+  <toaddl>95</toaddl>
+  <toaddr>98</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.41621 29.761482,-95.416216 29.762065</line>
+  <distance>0.02</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Detering St</name>
+  <fraddl>1</fraddl>
+  <fraddr>2</fraddr>
+  <toaddl>35</toaddl>
+  <toaddr>36</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.415808 29.761663,-95.41621 29.761482</line>
+  <distance>0.07</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Memorial Dr</name>
+  <fraddl>5301</fraddl>
+  <fraddr>5300</fraddr>
+  <toaddl>5399</toaddl>
+  <toaddr>5398</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.414351 29.762661,-95.414506 29.762576,-95.414876 29.762343,-95.415249 29.762011,-95.415699 29.761712,-95.415808 29.761663</line>
+  <distance>0.07</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Memorial Dr</name>
+  <fraddl>5239</fraddl>
+  <fraddr>5270</fraddr>
+  <toaddl>5299</toaddl>
+  <toaddr>5298</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.415537 29.761664,-95.415582 29.76164,-95.415705 29.761596,-95.41621 29.761482</line>
+  <distance>0.08</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Memorial Dr</name>
+  <fraddl/>
+  <fraddr/>
+  <toaddl/>
+  <toaddr/>
+  <postalcode/>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.41621 29.761482,-95.416936 29.761412,-95.417563 29.761378</line>
+  <distance>0.08</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Memorial Dr</name>
+  <fraddl>5401</fraddl>
+  <fraddr>5400</fraddr>
+  <toaddl>5499</toaddl>
+  <toaddr>5498</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.416239 29.763079,-95.41624 29.763143,-95.416248 29.763319</line>
+  <distance>0.09</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Detering St</name>
+  <fraddl>97</fraddl>
+  <fraddr>100</fraddr>
+  <toaddl>103</toaddl>
+  <toaddr>104</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.415507 29.760736,-95.415512 29.761566,-95.415537 29.761664</line>
+  <distance>0.09</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Aloe St</name>
+  <fraddl>1</fraddl>
+  <fraddr>2</fraddr>
+  <toaddl>99</toaddl>
+  <toaddr>98</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.411139 29.762166,-95.411423 29.762329,-95.412009 29.762617,-95.412455 29.762732,-95.412977 29.762836,-95.41339 29.762829,-95.413666 29.762772,-95.414041 29.762652,-95.414363 29.762522,-95.414682 29.762295,-95.414966 29.762058,-95.415191 29.761853,-95.415537 29.761664</line>
+  <distance>0.09</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Memorial Dr</name>
+  <fraddl>601</fraddl>
+  <fraddr/>
+  <toaddl>699</toaddl>
+  <toaddr/>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  <streetSegment>
+  <line>-95.414597 29.761651,-95.415382 29.761639,-95.415537 29.761664</line>
+  <distance>0.09</distance>
+  <mtfcc>S1400</mtfcc>
+  <name>Hohl St</name>
+  <fraddl>5201</fraddl>
+  <fraddr>5200</fraddr>
+  <toaddl>5299</toaddl>
+  <toaddr>5298</toaddr>
+  <postalcode>77007</postalcode>
+  <placename>Houston</placename>
+  <adminCode2>201</adminCode2>
+  <adminName2>Harris</adminName2>
+  <adminCode1>TX</adminCode1>
+  <adminName1>Texas</adminName1>
+  <countryCode>US</countryCode>
+  </streetSegment>
+  </geonames>
+body_exist: true
+code: "200"
+header: 
+  content-type: 
+  - text/xml;charset=UTF-8
+  connection: 
+  - close
+  access-control-allow-origin: 
+  - "*"
+  server: 
+  - Apache/2.2.15 (Linux/SUSE)
+  date: 
+  - Thu, 15 Sep 2011 23:09:37 GMT
+  cache-control: 
+  - no-cache
+  transfer-encoding: 
+  - chunked
+http_version: "1.1"
+message: OK
+read: true
+socket: 

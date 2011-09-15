@@ -1,0 +1,153 @@
+--- 
+geonames: 
+  streetSegment: 
+  - placename: Houston
+    fraddr: "38"
+    name: Detering St
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.416216 29.762065,-95.416239 29.763079
+    toaddr: "98"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "37"
+    adminName2: Harris
+    toaddl: "95"
+    mtfcc: S1400
+    distance: "0.02"
+  - placename: Houston
+    fraddr: "2"
+    name: Detering St
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.41621 29.761482,-95.416216 29.762065
+    toaddr: "36"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "1"
+    adminName2: Harris
+    toaddl: "35"
+    mtfcc: S1400
+    distance: "0.02"
+  - placename: Houston
+    fraddr: "5300"
+    name: Memorial Dr
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.415808 29.761663,-95.41621 29.761482
+    toaddr: "5398"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "5301"
+    adminName2: Harris
+    toaddl: "5399"
+    mtfcc: S1400
+    distance: "0.07"
+  - placename: Houston
+    fraddr: "5270"
+    name: Memorial Dr
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.414351 29.762661,-95.414506 29.762576,-95.414876 29.762343,-95.415249 29.762011,-95.415699 29.761712,-95.415808 29.761663
+    toaddr: "5298"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "5239"
+    adminName2: Harris
+    toaddl: "5299"
+    mtfcc: S1400
+    distance: "0.07"
+  - placename: Houston
+    fraddr: 
+    name: Memorial Dr
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.415537 29.761664,-95.415582 29.76164,-95.415705 29.761596,-95.41621 29.761482
+    toaddr: 
+    postalcode: 
+    countryCode: US
+    adminName1: Texas
+    fraddl: 
+    adminName2: Harris
+    toaddl: 
+    mtfcc: S1400
+    distance: "0.08"
+  - placename: Houston
+    fraddr: "5400"
+    name: Memorial Dr
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.41621 29.761482,-95.416936 29.761412,-95.417563 29.761378
+    toaddr: "5498"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "5401"
+    adminName2: Harris
+    toaddl: "5499"
+    mtfcc: S1400
+    distance: "0.08"
+  - placename: Houston
+    fraddr: "100"
+    name: Detering St
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.416239 29.763079,-95.41624 29.763143,-95.416248 29.763319
+    toaddr: "104"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "97"
+    adminName2: Harris
+    toaddl: "103"
+    mtfcc: S1400
+    distance: "0.09"
+  - placename: Houston
+    fraddr: "2"
+    name: Aloe St
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.415507 29.760736,-95.415512 29.761566,-95.415537 29.761664
+    toaddr: "98"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "1"
+    adminName2: Harris
+    toaddl: "99"
+    mtfcc: S1400
+    distance: "0.09"
+  - placename: Houston
+    fraddr: 
+    name: Memorial Dr
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.411139 29.762166,-95.411423 29.762329,-95.412009 29.762617,-95.412455 29.762732,-95.412977 29.762836,-95.41339 29.762829,-95.413666 29.762772,-95.414041 29.762652,-95.414363 29.762522,-95.414682 29.762295,-95.414966 29.762058,-95.415191 29.761853,-95.415537 29.761664
+    toaddr: 
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "601"
+    adminName2: Harris
+    toaddl: "699"
+    mtfcc: S1400
+    distance: "0.09"
+  - placename: Houston
+    fraddr: "5200"
+    name: Hohl St
+    adminCode1: TX
+    adminCode2: "201"
+    line: -95.414597 29.761651,-95.415382 29.761639,-95.415537 29.761664
+    toaddr: "5298"
+    postalcode: "77007"
+    countryCode: US
+    adminName1: Texas
+    fraddl: "5201"
+    adminName2: Harris
+    toaddl: "5299"
+    mtfcc: S1400
+    distance: "0.09"

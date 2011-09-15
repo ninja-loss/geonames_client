@@ -1,0 +1,16 @@
+--- !ruby/object:HTTParty::Response::Headers 
+header: 
+  access-control-allow-origin: 
+  - "*"
+  connection: 
+  - close
+  content-type: 
+  - text/xml;charset=UTF-8
+  date: 
+  - Thu, 15 Sep 2011 23:09:37 GMT
+  server: 
+  - Apache/2.2.15 (Linux/SUSE)
+  cache-control: 
+  - no-cache
+  transfer-encoding: 
+  - chunked
