@@ -29,7 +29,7 @@ describe GeonamesClient::Service do
   context '#get_nearby_streets' do
 
     before :each do
-      service.stub!( :nearby_streets_from_geonames ).and_return http_party_response
+      service.stub!( :nearby_streets ).and_return street_names
     end
 
     let :http_party_response do
@@ -40,16 +40,31 @@ describe GeonamesClient::Service do
                              YAML::load_file( File.join( base, "geoname_response-parsed_response.yml" ) )
     end
 
+    let :street_names do
+      ["Detering St", "Memorial Dr", "Aloe St", "Hohl St"]
+    end
+
     subject do
       service.get_nearby_streets( :latitude  => '29.762242',
                                   :longitude => '-95.416166' )
     end
 
-    it { should == GeonamesClient::NearbyStreet.all( 'Detering St',
-                                                     'Memorial Dr',
-                                                     'Aloe St',
-                                                     'Hohl St' ) }
+    it { should == GeonamesClient::NearbyStreet.all( 'Aloe St',
+                                                     'Detering St',
+                                                     'Hohl St',
+                                                     'Memorial Dr' ) }
 
   end
+
+  # context '#nearby_streets_from_geonames_northeast' do
+  #
+  #   subject do
+  #     service.nearby_streets_from_geonames_northeast( :latitude  => '29.762242',
+  #                                                     :longitude => '-95.416166' )
+  #   end
+  #
+  #   it { should == nil }
+  #
+  # end
 
 end
