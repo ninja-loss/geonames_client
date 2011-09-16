@@ -8,7 +8,6 @@ group :development, :test do
   gem 'growl'
 	gem 'guard-rspec'
 	gem 'guard-shell'
-	gem 'httparty'
 end
 
 # Specify your gem's dependencies in geonames_client.gemspec
